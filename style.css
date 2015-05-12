@@ -1,0 +1,36 @@
+
+
+body {
+	margin: 30;
+	padding: 20;
+}
+
+*{font-family: georgia;}
+
+p {	font-family: verdana;
+
+}
+
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 5em;
+	font-weight: bolder;
+}
+
+h6 {
+	font-size: 1.75em
+}
+
+h3 {
+	font-size: 1.25em
+}
+
+h2 {
+	font-size: 1.15em
+}
+
+a {
+	color: #7ce886
+}
